@@ -33,7 +33,7 @@
         "nesbot/carbon": "^1.0|^2.0"
     },
     "require-dev": {
-        "illuminate/console": "^5.2|^6|^7|^8"|^9|^10,
+        "illuminate/console": "^5.2|^6|^7|^8"|^9|^10",
         "illuminate/database": "^5.2|^6|^7|^8|^9|^10",
         "illuminate/routing": "^5.2|^6|^7|^8|^9|^10",
         "mockery/mockery": ">=0.9.9",
